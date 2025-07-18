@@ -14,7 +14,7 @@ Por favor, descarga estos archivos antes de comenzar la práctica.
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/[usuario]/Practica-09_ECBD_220472.git
+   git clone https://github.com/CarlosJ67/Practica-09_ECBD_220472.git
    ```
 2. Descarga los archivos de base de datos desde el enlace proporcionado arriba.
 3. Sigue las indicaciones de la práctica para realizar la configuración y ejecución.
